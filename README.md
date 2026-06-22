@@ -11,6 +11,9 @@ Through this project, I gained hands-on experience in building an intelligent sy
 
 ![Chatbot_for_FAQ](Screenshot.png)
 
+## Live Demo
+Click here to try the AI Career Mentor Chatbot: https://codealphachatbotforfaq-fkgknadxblcmbkczdfj6u9.streamlit.app/
+
 ## What I Learned
 8 Basics of Natural Language Processing (NLP)
 * Text preprocessing techniques

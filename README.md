@@ -9,6 +9,8 @@ The chatbot uses Natural Language Processing (NLP) techniques like TF-IDF Vector
 
 Through this project, I gained hands-on experience in building an intelligent system that can understand user input and respond meaningfully.
 
+![Chatbot_for_FAQ](Screenshot.png)
+
 ## What I Learned
 8 Basics of Natural Language Processing (NLP)
 * Text preprocessing techniques

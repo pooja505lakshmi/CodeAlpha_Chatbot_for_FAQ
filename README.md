@@ -1,4 +1,5 @@
-#🎓 AI Career Mentor Chatbot
+## 🎓 AI Career Mentor FAQ Chatbot
+
 ## About the Project
 
 This project is a beginner-friendly AI-powered Career Mentor Chatbot built using Python and Streamlit.
